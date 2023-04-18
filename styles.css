@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+.container{
+	background-color:#f5f5f5;
+	
+}
+.testimonial {
+	font-color: black;
+	background-color:white;
+	padding: 5px;
+	margin:50px;
+	border:1px black;
+}
+
+.testimonial-content {
+  
+}
+
+.testimonial-text {
+  
+}
+
+.testimonial-author {
+  font-style: italic;
+  text-align: right;
+}
